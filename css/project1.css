@@ -1,3 +1,10 @@
 body{
-  background-color:#4374F7;
+  background-color:#FAFFAA;
+  font-family: courier,monospace;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.box-1 {
+  background-color: #AFB9F9;
 }
